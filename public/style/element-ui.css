@@ -1,0 +1,25 @@
+
+.el-form-item--mini.el-form-item {
+    margin-bottom: 5px;
+}
+
+.el-divider--horizontal{
+    margin: 5px 0;
+}
+
+.el-divider{
+    background-color: #17202A;
+}
+
+.el-select{
+    width: 100%;
+}
+
+.el-select-dropdown__item{
+    height: 26px;
+    line-height: 26px;
+}
+
+.el-input-group__append, .el-input-group__prepend{
+    padding: 0px 5px;
+}
